@@ -1,0 +1,28 @@
+body{
+    margin:5rem;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+body{
+    margin: 20%;
+}
+label{
+    font-weight: bold;
+}
+
+table{
+    align-self: center;
+    border-collapse:collapse;
+    text-align: center;
+}
+tr{
+    border:2px solid black
+}
+.lalign{
+    margin:0%;
+    padding-right: 0%;
+    padding-left: 40%;
+}
