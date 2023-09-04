@@ -1,28 +1,20 @@
-body{
-    margin:5rem;
-}
-
-h1{
-    text-align: center;
-    color: blue;
-}
-body{
-    margin: 20%;
-}
-label{
-    font-weight: bold;
-}
-
-table{
-    align-self: center;
-    border-collapse:collapse;
-    text-align: center;
-}
-tr{
-    border:2px solid black
-}
-.lalign{
-    margin:0%;
+.c1{
+    margin-right:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:50%;
+    padding-left: 0px;
     padding-right: 0%;
-    padding-left: 40%;
+}
+
+td,tr,table{
+    margin-right:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+}
+
+.m1{
+    margin-right:0px;
+    margin-left:40%;
 }

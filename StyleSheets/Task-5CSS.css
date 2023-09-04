@@ -1,35 +1,28 @@
-.al{
+body{
+    margin:5rem;
+}
+
+h1{
     text-align: center;
+    color: blue;
+}
+body{
+    margin: 20%;
+}
+label{
+    font-weight: bold;
 }
 
 table{
-    border: 2px solid black;
-    height:110;
-    width:200;
-    border-radius:10px;
+    align-self: center;
+    border-collapse:collapse;
+    text-align: center;
 }
-
-td{
-    border: 2px solid black;
-    height: 40px;
-    width: 200px;
-    border-radius: 50px;
+tr{
+    border:2px solid black
 }
-
-.c1{
-    margin:200px;
-    margin-top: 20px;
-    padding:auto;
-    height: 100px;
-    width: 100px;
-    border:2px solid limegreen;
-}
-
-.c2{
-    margin:350px;
-    margin-top: 20px;
-    padding:auto;
-    height:100px;
-    width:100px;
-    border:2px solid limegreen;
+.lalign{
+    margin:0%;
+    padding-right: 0%;
+    padding-left: 40%;
 }
