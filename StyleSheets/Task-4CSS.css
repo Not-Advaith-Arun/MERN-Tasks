@@ -1,20 +1,11 @@
+table{
+    margin: auto;
+    margin-top: 10%;
+    line-height: 30px;
+    font-weight: 600;
+}
+
 .c1{
-    margin-right:0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left:50%;
-    padding-left: 0px;
-    padding-right: 0%;
-}
-
-td,tr,table{
-    margin-right:0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left:0px;
-}
-
-.m1{
-    margin-right:0px;
-    margin-left:40%;
+    width:150px;
+    display:inline-block;
 }

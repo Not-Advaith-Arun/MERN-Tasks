@@ -1,35 +1,14 @@
-.al{
-    text-align: center;
+body{
+    margin: 0px;
+    padding:0px;
 }
-
-table{
-    border: 2px solid black;
-    height:110;
-    width:200;
-    border-radius:10px;
-}
-
-td{
-    border: 2px solid black;
-    height: 40px;
-    width: 200px;
-    border-radius: 50px;
-}
-
-.c1{
-    margin:200px;
-    margin-top: 20px;
-    padding:auto;
-    height: 100px;
-    width: 100px;
-    border:2px solid limegreen;
-}
-
-.c2{
-    margin:350px;
-    margin-top: 20px;
-    padding:auto;
-    height:100px;
-    width:100px;
-    border:2px solid limegreen;
+td,tr,table{
+    background-color: rgb(114, 164, 174);
+    color:black;
+    width: 1000px;
+    height: min-content;
+    margin:auto;
+    margin-top: 20%;
+    border:1px solid black;
+    border-radius: 10px;
 }

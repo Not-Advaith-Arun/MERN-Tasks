@@ -1,0 +1,19 @@
+table{
+    border:1px solid lightgrey;
+    width: 100%;
+    line-height: 40px; 
+    border-collapse: collapse;
+}
+
+td,tr{
+    margin:0px;
+}
+
+.heading{
+    background-color: rgb(47, 183, 115);
+    color:white;
+}
+
+.grey{
+    background-color: lightgrey;
+}

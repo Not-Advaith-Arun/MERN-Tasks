@@ -1,0 +1,47 @@
+ul{
+    list-style-type: none;
+    padding:0px;
+    width: 200px;
+    background-color: lightblue;
+    offset: 2px solid black;
+    offset-distance: 2px;
+}
+
+li a{
+    display: block;
+    color:black;
+    padding:8px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: orange;
+    color:white
+}
+
+.c1{
+    list-style-type: none;
+    margin-right: 0px;
+    padding-right:0px;
+    padding: 0px;
+    width:max-content;
+    background-color: grey;
+}
+
+.l1{
+    display: inline-block;
+}
+
+.l1 a{
+    display: block;
+    color:black;
+    background-color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.l1 a:hover{
+    color:white;
+    background-color: darkgray;
+}

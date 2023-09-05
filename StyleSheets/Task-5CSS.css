@@ -1,28 +1,29 @@
-body{
-    margin:5rem;
-}
-
 h1{
     text-align: center;
-    color: blue;
-}
-body{
-    margin: 20%;
-}
-label{
-    font-weight: bold;
+    color:blue;
+    margin-bottom:0px;
 }
 
 table{
-    align-self: center;
-    border-collapse:collapse;
+    margin: auto;
+    margin-top: 1.5rem;
     text-align: center;
+    width:700px;
 }
-tr{
-    border:2px solid black
+
+td,table,tr{
+    border:1px solid black;
+    border-spacing: 0px;
 }
-.lalign{
-    margin:0%;
-    padding-right: 0%;
-    padding-left: 40%;
+
+.al{
+    text-align: Right;
+}
+
+.rl{
+    text-align: Left;
+}
+
+.c1{
+    width:550px
 }

@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+table{
+    background-color: rgb(114, 164, 174);
+    color:black;
+    margin-top:10%;
+    margin-left:10%;
+    width: 900px;
+    height: 0.5em;
+}
+
+.centre{
+    text-align: center;
+    font-size: large;
+}
+
+td,tr,table{
+    border:1px solid white;
+    border-spacing: 0px;
+}

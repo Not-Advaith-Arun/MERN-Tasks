@@ -1,11 +1,16 @@
 *{
     margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
+    background-color: grey;
 }
 
-body{
+nav{
     font-size: 1.5rem;
-    margin-top: 10%;
-    text-align: center;
-    line-height: 1.5em;
+    line-height: 1.9rem;
+}
+
+tr,td,table{
+    margin:auto;
+    margin-top:10%;
 }
