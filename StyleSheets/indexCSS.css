@@ -44,46 +44,6 @@ li.css{
     background-color: white;
 }
 
-#i3{
-    padding-left:1080px;
-    position: absolute;
-}
-
-ul.bs{
-    margin-left:980px;
-    margin-top:60px;
-    position:absolute;
-    list-style-type: none;
-    line-height: 40px;
-}
-
-li.bs{
-    padding-left:16px;
-    width:200px;
-    border:7px solid rgba(123, 212, 183, 0.491);
-    background-color: white;
-}
-
-#i4{
-    padding-left:1580px;
-    position: absolute;
-}
-
-ul.js{
-    margin-left:1485px;
-    margin-top:60px;
-    position:absolute;
-    list-style-type: none;
-    line-height: 40px;
-}
-
-li.js{
-    padding-left:16px;
-    width:200px;
-    border:7px solid rgba(123, 212, 183, 0.491);
-    background-color: white;
-}
-
 li a{
     display: block;
     text-decoration: none;
